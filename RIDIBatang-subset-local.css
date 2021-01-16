@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'RIDIBatang-subset';
+  font-weight: 400;
+  src: local('RIDIBatang'),
+       url('font/RIDIBatang-subset.woff2') format('woff2'),
+       url('font/RIDIBatang-subset.woff') format('woff');
+}
+@font-face {
+  font-family: 'RIDIBatang-subset';
+  font-weight: 700;
+  src: local('RIDIBatang'),
+       url('font/RIDIBatangBold-subset.woff2') format('woff2'),
+       url('font/RIDIBatangBold-subset.woff') format('woff');
+}

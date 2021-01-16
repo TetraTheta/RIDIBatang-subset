@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'RIDIBatang-Subset';
+  font-weight: 400;
+  src: local('RIDIBatang'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/RIDIBatang-subset/font/RIDIBatang-Subset.woff2') format('woff2'),
+       url('//cdn.jsdelivr.net/gh/teamYOMI/RIDIBatang-subset/font/RIDIBatang-Subset.woff') format('woff');
+}
