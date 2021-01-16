@@ -28,7 +28,7 @@
 ## 용량 감소
 원본 파일(OTF)와 비교해서 WOFF/WOFF2가 얼마나 줄어들었냐면...
 
-* RIDIBatang: 4.12MB → 510KB(WOFF) / 359KB(WOFF2)
+* RIDIBatang: 1.38MB → 307KB(WOFF) / 259KB(WOFF2)
 
 ## 직접 서브셋 만들기
 `convert.sh`는 우분투 환경에서 구동한다는 가정 하에 작성되었습니다. 스크립트 파일과 원본 OTF 파일을 같은 디렉토리에 넣어주세요. 결과물은 `output` 디렉토리에 저장됩니다.
