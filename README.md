@@ -14,7 +14,7 @@
 <link href="/path/to/RIDIBatang-subset-local.css" rel="stylesheet">
 ```
 ```css
-@import url('//cdn.jsdelivr.net/gh/teamYOMI/RIDIBatang-subset/RIDIBatang-subset-web.css')
+@import url('//cdn.jsdelivr.net/gh/teamYOMI/RIDIBatang-subset/RIDIBatang-subset-web.css');
 ```
 이후 `font-family`에서 `RIDIBatang-subset`을 사용하시면 됩니다.
 
