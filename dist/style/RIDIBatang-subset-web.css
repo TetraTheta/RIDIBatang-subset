@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'RIDIBatang-subset';
+  font-weight: 400;
+  src: local('RIDIBatang'),
+    url('//cdn.jsdelivr.net/gh/TetraTheta/RIDIBatang-subset/dist/webfont/RIDIBatang-subset.woff2') format('woff2'),
+    url('//cdn.jsdelivr.net/gh/TetraTheta/RIDIBatang-subset/dist/webfont/RIDIBatang-subset.woff') format('woff');
+}

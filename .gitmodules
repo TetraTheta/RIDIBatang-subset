@@ -1,0 +1,3 @@
+[submodule "glyphs"]
+	path = glyphs
+	url = https://github.com/TetraTheta/WebfontSubset-glyphs.git
