@@ -11,7 +11,7 @@
 ```
 웹폰트 파일들을 서버에 둘 수 없다면 jsDelivr를 사용할 수도 있습니다.
 ```html
-<link href="/path/to/RIDIBatang-subset-local.css" rel="stylesheet">
+<link href="//cdn.jsdelivr.net/gh/TetraTheta/RIDIBatang-subset/dist/style/RIDIBatang-subset-web.css" rel="stylesheet">
 ```
 ```css
 @import url('//cdn.jsdelivr.net/gh/TetraTheta/RIDIBatang-subset/dist/style/RIDIBatang-subset-web.css');
